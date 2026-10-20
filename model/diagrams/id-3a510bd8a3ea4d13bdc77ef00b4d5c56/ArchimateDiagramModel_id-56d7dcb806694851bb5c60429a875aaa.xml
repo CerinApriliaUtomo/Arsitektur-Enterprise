@@ -843,4 +843,28 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-f5347bd8266b4329b31e4c3cc2681555.xml#id-f5347bd8266b4329b31e4c3cc2681555"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-581336a25d744fb080d8d3c03d905a3a">
+    <bounds
+        x="1296"
+        y="690"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-83808eeabc1c48b3a0816262eb9607a9.xml#id-83808eeabc1c48b3a0816262eb9607a9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a0f61603c49e4dfbbb5256b9b0b5b48b">
+    <bounds
+        x="1421"
+        y="588"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-de2cef5ab2114aa59618948be9bb3449.xml#id-de2cef5ab2114aa59618948be9bb3449"/>
+  </children>
 </archimate:ArchimateDiagramModel>
