@@ -4,6 +4,17 @@
     name="D.3 Technology gap analysis"
     id="id-18a6eb6d06424518a5058a9ce8ad282f">
   <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-64d37b51450646ed81be666631490c69"
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      content="Legend&#xD;&#xA;Difference between plateau">
+    <bounds
+        x="1284"
+        y="216"
+        width="271"
+        height="231"/>
+  </children>
+  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-74deffed448c4908a792e8418779ef0f">
     <sourceConnections
@@ -764,13 +775,57 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-365e1f64f50b40dea0f54c1be65cde76"
-      name="Group"
-      textAlignment="1">
+      id="id-95cd0f2974e34f54b37ed13076f88319"
+      textAlignment="1"
+      fillColor="#80ffff">
     <bounds
-        x="960"
-        y="960"
-        width="400"
-        height="140"/>
+        x="1331"
+        y="276"
+        width="36"
+        height="34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e488abad92df4604ace13c0c7f0ce0e7"
+      textAlignment="1"
+      content="both in Baseline and Target&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;only in plateau Baseline&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;only in plateau Target&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="1375"
+        y="279"
+        width="180"
+        height="144"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0d249efb226f4d28add877148586ee9b"
+      textAlignment="1"
+      fillColor="#00ff40">
+    <bounds
+        x="1331"
+        y="389"
+        width="36"
+        height="34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-4b8b59add080448c942c45977aab96c8"
+      textAlignment="1"
+      fillColor="#80ffff">
+    <bounds
+        x="837"
+        y="771"
+        width="36"
+        height="34"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e4538b2bf4fd4407bfdd5c7391f98a09"
+      textAlignment="1"
+      fillColor="#ff8040">
+    <bounds
+        x="1331"
+        y="334"
+        width="36"
+        height="34"/>
   </children>
 </archimate:ArchimateDiagramModel>
