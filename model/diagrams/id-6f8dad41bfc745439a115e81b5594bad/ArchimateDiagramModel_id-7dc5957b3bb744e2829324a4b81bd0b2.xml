@@ -1,4 +1,55 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E.4 Technology Principles"
-    id="id-7dc5957b3bb744e2829324a4b81bd0b2"/>
+    id="id-7dc5957b3bb744e2829324a4b81bd0b2"
+    documentation="Statement: Technology infrastructure should be consolidated and standardized.&#xD;&#xA;Rationale: Simplifies management, reduces costs, and increases reliability.&#xD;&#xA;Implication: Migration to shared clusters and decommissioning of redundant servers is required.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b51a24d69a4b496fbcffb147fb3d7342">
+    <bounds
+        x="108"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-1d802bef4ab74e82b4cecea00415b9ad.xml#id-1d802bef4ab74e82b4cecea00415b9ad"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-98d0384963eb409aa422f4eeae8bc102">
+    <bounds
+        x="276"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-bf44be1618914e61a788a2cc3176f3d4.xml#id-bf44be1618914e61a788a2cc3176f3d4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-758175463723405895945294c883265d">
+    <bounds
+        x="444"
+        y="96"
+        width="126"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-fcecc7a6e01e48b9b26bce65130f9ccb.xml#id-fcecc7a6e01e48b9b26bce65130f9ccb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ef28b5a1bdff48e0b7c509ac3ecac285">
+    <bounds
+        x="624"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-9017f0d06f234f55aa7dd0dfb051dcad.xml#id-9017f0d06f234f55aa7dd0dfb051dcad"/>
+  </children>
+</archimate:ArchimateDiagramModel>

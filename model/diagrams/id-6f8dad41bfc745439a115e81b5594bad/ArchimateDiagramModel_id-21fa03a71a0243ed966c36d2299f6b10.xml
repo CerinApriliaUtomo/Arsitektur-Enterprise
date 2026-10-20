@@ -1,4 +1,54 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E.1 Business Principles"
-    id="id-21fa03a71a0243ed966c36d2299f6b10"/>
+    id="id-21fa03a71a0243ed966c36d2299f6b10">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7880f97801ea47d5a4923ff01058cadb">
+    <bounds
+        x="96"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-4af7607949394224991198b91be2dfbc.xml#id-4af7607949394224991198b91be2dfbc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f9a9e78a094a431194311bb68870b944">
+    <bounds
+        x="264"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-a6b7e696eb1a486fa3df649f91d7500b.xml#id-a6b7e696eb1a486fa3df649f91d7500b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e272e7e2dbf7446c83b478a474908e52">
+    <bounds
+        x="432"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-977f632ee97d406db0e84e4e031db9b5.xml#id-977f632ee97d406db0e84e4e031db9b5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c73e99ccfb3342aca06bfee025ab6e6d">
+    <bounds
+        x="600"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-96ce9d43965b44f89f171ddf3c5e711e.xml#id-96ce9d43965b44f89f171ddf3c5e711e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

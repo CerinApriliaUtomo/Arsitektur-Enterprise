@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data as an Enterprise Asset"
+    id="id-71a642cd39ca4dc1971c1e7d5454d1b1"
+    documentation="Statement: All data across ArchiSurance (customer, policy, claims) is a valuable corporate resource that must be managed and governed holistically.&#xD;&#xA;Rationale: Data is central to underwriting, claims, and customer engagement decisions.&#xD;&#xA;Implication: Requires enterprise-wide data ownership, stewardship, and governance policies."/>

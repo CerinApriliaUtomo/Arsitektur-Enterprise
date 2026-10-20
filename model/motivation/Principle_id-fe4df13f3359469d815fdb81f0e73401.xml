@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Security and Compliance"
+    id="id-fe4df13f3359469d815fdb81f0e73401"
+    documentation="Statement: Data must be protected from unauthorized use while complying with insurance and privacy regulations.&#xD;&#xA;Rationale: Protecting policyholder information maintains trust and meets legal obligations.&#xD;&#xA;Implication: Implement access controls, encryption, and continuous monitoring across systems."/>

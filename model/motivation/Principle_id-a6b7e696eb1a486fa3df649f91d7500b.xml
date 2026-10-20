@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Continuity"
+    id="id-a6b7e696eb1a486fa3df649f91d7500b"
+    documentation="Statement: ArchiSurance operations must be maintained despite system or process interruptions.&#xD;&#xA;Rationale: Insurance is a critical, always-on business; downtime impacts customer trust and compliance.&#xD;&#xA;Implication: Requires investment in redundancy, disaster recovery, and cross-trained staff."/>

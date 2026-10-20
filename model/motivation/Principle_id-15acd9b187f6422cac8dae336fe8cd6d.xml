@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Orientation"
+    id="id-15acd9b187f6422cac8dae336fe8cd6d"
+    documentation="Statement: Applications should be designed as modular, reusable services.&#xD;&#xA;Rationale: Supports agility, integration, and reuse across business processes.&#xD;&#xA;Implication: Investment in service design and governance is required."/>

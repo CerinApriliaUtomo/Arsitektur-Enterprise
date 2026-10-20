@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Sharing and Integration"
+    id="id-ce1835de03af4a908cb7f23fca1a5c24"
+    documentation="Statement: Data should flow seamlessly across business units and systems, eliminating silos from pre-merger organizations.&#xD;&#xA;Rationale: Integration ensures that all customer interactions and reporting use unified, accurate data.&#xD;&#xA;Implication: Develop enterprise data integration architecture and shared repositories accessible to authorized units."/>

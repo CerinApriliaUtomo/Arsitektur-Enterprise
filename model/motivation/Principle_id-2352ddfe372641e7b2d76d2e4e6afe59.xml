@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Independence"
+    id="id-2352ddfe372641e7b2d76d2e4e6afe59"
+    documentation="Statement: Applications should be independent of specific technology platforms.&#xD;&#xA;Rationale: Ensures flexibility for future upgrades and vendor changes.&#xD;&#xA;Implication: Applications must use open standards and modular design."/>
