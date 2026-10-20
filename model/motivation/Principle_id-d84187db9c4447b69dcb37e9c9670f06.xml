@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Use Applications"
+    id="id-d84187db9c4447b69dcb37e9c9670f06"
+    documentation="Statement: Development of applications used across the enterprise is preferred over the development of similar or duplicative applications which are only provided to a particular organization.&#xD;&#xA;Rationale: Reduces redundancy, maintenance costs, and enables better data sharing post-merger.&#xD;&#xA;Implication: Organizations which depend on a capability which does not serve the entire enterprise must change over to the replacement enterprise-wide capability."/>

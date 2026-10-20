@@ -1,4 +1,55 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="E.3 Data Principles"
-    id="id-165f84247a514738b178b46c764115fb"/>
+    id="id-165f84247a514738b178b46c764115fb"
+    documentation="Statement: Data must be accurate, complete, and timely throughout its lifecycle.&#xD;&#xA;Rationale: Reliable data supports trustworthy analytics and consistent customer experiences.&#xD;&#xA;Implication: Enforce data validation rules, cleansing, and common master data standards.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6e70a6223cb24f078f283a7589d53ed7">
+    <bounds
+        x="96"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-71a642cd39ca4dc1971c1e7d5454d1b1.xml#id-71a642cd39ca4dc1971c1e7d5454d1b1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-81af87d1261c4beeafaedfa6ca35d1e4">
+    <bounds
+        x="264"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-ce1835de03af4a908cb7f23fca1a5c24.xml#id-ce1835de03af4a908cb7f23fca1a5c24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bea8fb06449f4b7aa084322c18cba031">
+    <bounds
+        x="444"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-dc810c9cf0b4438ba34b786d5874b5e4.xml#id-dc810c9cf0b4438ba34b786d5874b5e4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-dfbb362d4bc7478bad09f8d17d60c591">
+    <bounds
+        x="624"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-fe4df13f3359469d815fdb81f0e73401.xml#id-fe4df13f3359469d815fdb81f0e73401"/>
+  </children>
+</archimate:ArchimateDiagramModel>

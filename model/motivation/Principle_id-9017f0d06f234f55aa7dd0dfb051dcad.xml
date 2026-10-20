@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-9017f0d06f234f55aa7dd0dfb051dcad"
+    documentation="Statement: Technology must safeguard customer and business data.&#xD;&#xA;Rationale: Insurance data is sensitive and regulated; breaches can be costly.&#xD;&#xA;Implication: Security must be embedded in all technology decisions and regularly reviewed."/>
